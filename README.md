@@ -1,4 +1,4 @@
 # resume
 resume a million ways
 
-LaTeX, Visual(ai,psd), Creddle, PDF, etc. 
+LaTeX, HTML, JSON, Visual(ai,psd), Creddle, PDF, etc. 
