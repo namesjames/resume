@@ -1,8 +1,9 @@
 # James Conti
-_ Front End Developer _
+_Front End Developer_
 > Denver, CO 80202 
-* github.com/namesjames
-* linkedin.com/in/namesjames
+* [namesjames.com](http://www.namesjames.com/)
+* [github.com/namesjames](http://www.github.com/namesjames)
+* [linkedin.com/in/namesjames](http://www.linkedin.com/in/namesjames)
 
 # Experience
 
@@ -18,9 +19,11 @@ _ Front End Developer _
 * CSS3/SASS
 * JS (Angular)
 * Adobe Creative Suite
-* Git 
+* Git
+* SEO / SEM
 
 #Certificatation 
 
 * Google Adwords Certified 
 * Code School 
+* Code Academy + Galvanize Track
