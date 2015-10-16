@@ -1,5 +1,5 @@
 # James Conti
-_Front End Developer_
+### _Front End Developer_
 > Denver, CO 80202 
 * [namesjames.com](http://www.namesjames.com/)
 * [github.com/namesjames](http://www.github.com/namesjames)
@@ -21,6 +21,8 @@ _Front End Developer_
 * Adobe Creative Suite
 * Git
 * SEO / SEM
+* Atom
+* Pivotal Tracker
 
 #Certificatation 
 
